@@ -63,3 +63,5 @@ ReactDOM.render(
     //querySelector is a built in native function that is available in all the browsers.So we dont have to import anhything or do anything like that in order to use it.
 );
 
+
+Note:- This is index.js code notes.
